@@ -259,12 +259,12 @@ it will provide the benefit of the government management, the urban planning,  t
 With Internet of Vehicles, all the vehicles are connected into internet, same as traffic light.Each car had an electronic car plate which uniquely identify the car with plate information, sticker information, car information, driver information and so on.
 Those information is captured and integrated into blockchain and can be used for the following scenarios:
  
-a.	ownership/sticker management  
-b.	traffic ticketing/accident management 
-c.	car plat fraud detecting
-d.	parking management
-e.	criminal prevention
-f. 	...
+#a.	ownership/sticker management  
+#b.	traffic ticketing/accident management 
+#c.	car plat fraud detecting
+#d.	parking management
+#e.	criminal prevention
+#f. 	...
 
 With blockchain platform support, other organization such as insurance company can eaily get the full driving record from driver. Meanwhile, since the relationship between the blockchain node and real world car is confidential, it will be transparent that individuals' privacy is ensured. 
 
