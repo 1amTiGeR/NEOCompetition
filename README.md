@@ -232,7 +232,7 @@ The detail of implementation will leverage the Internet and the Internet of Thin
  
 Here is several ideal use case which use blockchain technology with smart city implementation:
 
-3.1 Administrative Area:
+#### 3.2.1 Administrative Area:
 
 Registration and Documentation: for public services in city, governments are responsible for governance, the economy, social issues, mobility, security, culture and the environment. These activities consist of a huge number of different processes that require a high frequency of registration and documentation, and their transparency and security are essential.
 
@@ -243,7 +243,7 @@ Unified citizen service:  Many government records (laws, expenses, income, contr
 
 Those blockchain implementation will be a huge save of mantainance cost for the KYC based services, such as banks, insurance company etc. who need to check individual's related history. They just need to temporary ask users to provide the prove of the ownership of the account and retrieve information from blockchain.
 
-3.2 Integrated Blockchain Platform:
+#### 3.2.2 Integrated Blockchain Platform:
 
 In addition to the purely administrative areas, blockchain can also be very relevant to urban planning and the management of public resource, sustainable transportation, public safety, the environment, the circular economy, smart buildings, etc.
 
@@ -254,17 +254,17 @@ the blockchain platform can be an open, sustainable ecosystem around public, pri
 
 it will provide the benefit of the government management, the urban planning,  the collaborative economy and sustainability policies, in the framework of smart cities
 
-3.3 Smart Traffic System
+#### 3.2.3 Smart Traffic System
 
 With Internet of Vehicles, all the vehicles are connected into internet, same as traffic light.Each car had an electronic car plate which uniquely identify the car with plate information, sticker information, car information, driver information and so on.
 Those information is captured and integrated into blockchain and can be used for the following scenarios:
  
-#a.	ownership/sticker management  
-#b.	traffic ticketing/accident management 
-#c.	car plat fraud detecting
-#d.	parking management
-#e.	criminal prevention
-#f. 	...
+##### a.	ownership/sticker management  
+##### b.	traffic ticketing/accident management 
+##### c.	car plat fraud detecting
+##### d.	parking management
+##### e.	criminal prevention
+##### f. 	...
 
 With blockchain platform support, other organization such as insurance company can eaily get the full driving record from driver. Meanwhile, since the relationship between the blockchain node and real world car is confidential, it will be transparent that individuals' privacy is ensured. 
 
